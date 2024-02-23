@@ -4,7 +4,7 @@ PROJECT IDEA
 
 CURRENCY CONVERTER APPLICATION
 
-GitHub Link: https://github.com/mammar003/banoabil_python_course
+GitHub Link:  https://github.com/mammar003/banoqabil_python_course/tree/main/Final%20Project
 
     URL of install library: https://pypi.org/project/CurrencyConverter/
 
