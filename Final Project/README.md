@@ -24,7 +24,12 @@ The Currency Converter App is a simple desktop application built using Python an
 - Tkinter library
 - currency_converter library
 
+## Video
+
+https://github.com/mammar003/banoqabil_python_course/assets/156603367/3fb27eb6-e109-4f40-a3e5-74d166d00059
+
 ## Installation:
+
 Clone the repository:
 
    ```bash
